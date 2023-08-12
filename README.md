@@ -1,6 +1,6 @@
 - 👋 Olá, Me chamo Henrique
 - 👀 Tenho interesse em programação e tudo que envolve Tecnologia
-- 🌱 Atualmente estou focado no estudo de JavaScript
+- 🌱 Atualmente estou focado no estudo de Flutter para desenvolvimento Mobile
 
 <!---
 DevRickFS/DevRickFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
